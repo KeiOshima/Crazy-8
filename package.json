@@ -1,0 +1,29 @@
+{
+  "name": "crazy-8",
+  "version": "1.0.0",
+  "description": "game of crazy 8 that can be played on the terminal. With option of playing against a computer or another human.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeiOshima/Crazy-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeiOshima/Crazy-8/issues"
+  },
+  "homepage": "https://github.com/KeiOshima/Crazy-8#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "eslint": "^8.36.0",
+    "eslint-plugin-mocha": "^10.1.0",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "clear": "^0.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
